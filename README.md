@@ -59,5 +59,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&section=footer&text=%20Thanks%20for%20Visiting!%20&fontAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20for%20Visiting&section=footer" />
 </p>
