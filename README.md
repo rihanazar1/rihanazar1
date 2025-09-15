@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20Hi%20👋,%20I'm%20Rihan%20Azar%20&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20Hi%20👋,%20Welcome%20to%20my%20Profile%20&section=header%20text&fontSize=50" />
 </p>
 
 <h2 align="center">🚀 Full-Stack Developer | MERN Stack Enthusiast</h2>
